@@ -1,0 +1,26 @@
+h1,
+p {
+  font-family: Arial;
+}
+body {
+  background-color: #ddd;
+}
+.picture {
+  height: 300px;
+  width: auto;
+  border: 1px solid #333;
+  border-radius: 0.5rem;
+  box-shadow: #333 1px 1px 5px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  width: 300px;
+  margin-top: 20px;
+}
